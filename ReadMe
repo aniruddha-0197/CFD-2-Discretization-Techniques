@@ -1,0 +1,1 @@
+Writing a solver for the Navier-Stokes equations applied to a lid-driven cavity problem. The solver is based on the use of incidence and Hodge matrices. The domain is discretized into N x N grid, also known as the primal mesh, which contains information about the velocity fluxes. Associated with this primal mesh we have a dual grid that contains unknowns related to the pressure.
